@@ -1,0 +1,165 @@
+read evaluate print loop
+lé relé e analiza seu programa (tudo que escrever )
+ typeof()- fala o que é 
+
+trabalhamos com numeros e string
+boleanos 
+valor verdadeiro ou valor falso 
+
+math.sqrt(50) - descobre a raiz quadrada
+faz calculos simples mais calculos mais complexos 
+
+
+
+
+numero com letra _ contatenar 
+ numero com numeor - 
+
+
+"rafael".charAt() _ para estrair letra de string
+ 
+string metodos 3wscol
+
+
+
+buleanos 
+1- tem operaçoes especificas 
+ principais 
+1- NÂO true é falso  ! ponto exclaçao sempre é não 
+
+2- e e ou && simbolo do é  sempre 2 &&
+ simbolo do ou ||
+
+3- 5 + 8 = 13 
+
+true && true && false && true
+= false
+
+true || true || false || true
+= true
+
+
+    ordem de presidencia
+não  1      .
+e      2    .
+ou       3   .
+
+ tem que resolver sempre o que tem dentro do (parentese) primeiro
+
+true e false vem de comparaçao 
+ pode ser de qualquer tipo 
+sempre tem que dar o resultade de treu ou false 
+5==5 = true verdadeiro(5 igual a 5).
+
+5!=5 = false (5 não é igual a 5).
+
+e só pode ser um elemento unico eu e (você) .
+ou pode ser um ou outro (eu ou você).
+ 
+casting(conversão de tipo, mudar um elemento para numero letra ou boleano)
+
+1=+( não tem mais a conversão de elementos ).
+bolean (vazia falsa)
+bolean ( com conteudo verdadeira)
+
+NaN (igual a nada erro )
+
+> (maior)
+< (menor) 
+
+50 40 10 (
+50 metade absoluto .
+40 base interpretartivo .
+10 mentira inventa na hora. )
+
+
+
+
+javascrit usa tanto no bakend,frondend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

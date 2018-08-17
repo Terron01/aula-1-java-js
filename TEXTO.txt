@@ -1,0 +1,20 @@
+compilador
+1-acha erros mais facil aniliza todos os erros antes do programa ser lançado .
+
+2- mais rapido que programas interpretado 
+
+3- mais demorado para mudar, por que tem que compilar tudo desdo começo
+
+4- não pode trocar dados com outros sistemas
+
+
+
+JAVA SCRIPT
+interpretador
+1-acha o erro mais só quando programa esta no ar.
+
+2- mais lento que o compilado 
+
+3- mais rapido mudar,pode alterar o codigo facilmente
+ 
+4-pode trocar dados com outros programas 

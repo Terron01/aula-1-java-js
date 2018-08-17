@@ -1,0 +1,75 @@
+variaveis(um valor que guardamso )
+let nome= "rafael" isso cria uma variavel
+ const(criar nova variavel )
+
+para acessar itens de lista 
+typeof(listanome[4])
+adicionar A lista length
+
+listanome.push
+vai para o final da lista 
+
+listanome.length
+
+
+
+
+
+para armazenar dados usammos objeto 
+um tipo de lista com chaves 
+let objeto = {} criando lista/objeto
+  objeto = {"rafael",idade 17, vivo:true}
+
+let cadastro =[{nome:rafael,idade 28}{nome:elaine,idade:29}]
+
+
+objeto['telefone'] = "11996252570"
+
+array lista dentro da lista do objeto
+
+let fabiano = {nome: "maria", idade: 19}
+]= fabiano
+
+elaine['amigo']
+
+{nome: "maria", idade: 19, amigo: {…}}
+
+
+
+
+. ==== conchete 
+   
+
+
+
+
+
+
+
+
+
+modelagem de dados = definir modelo de um elelmento para sua lista ou obejeto 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
